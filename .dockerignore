@@ -11,3 +11,4 @@ app/*/*/__pycache__/
 app/*/*/*/__pycache__/
 .venv/
 venv/
+a_little_test_file.txt
