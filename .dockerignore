@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+.DS_Store
+.vscode
+.idea
+.docker
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
+.venv/
+venv/

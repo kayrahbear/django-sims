@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 88
+ignore = E203, E266, E501, E722, E741, E742, E743, E902, E901, E999, W291, W293, W391, W503
+exclude = venv, __pycache__, manage.py, docker-compose.yml, Dockerfile, .env, migrations, settings.py, wsgi.py, asgi.py, requirements.txt, requirements.dev.txt, .gitignore, .dockerignore, .vscode, .idea, .DS_Store, .venv, venv, .docker
